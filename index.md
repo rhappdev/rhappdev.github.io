@@ -1,3 +1,4 @@
 ## Welcome to Red Hat App Dev Centre of Excellence
 
-This is work in progress.
+### Initiatives
+* [Better Practice](https://rhappdev.github.io/better-practice)
