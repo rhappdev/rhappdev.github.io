@@ -5,16 +5,47 @@
 This is a list of currently active workgroups. 
 
 ### CI/CD
-- Objective:
+#### Objective:
 TBD
-- Leader(s):
+#### Leader(s):
 Mikel Sanchez Herrero
+#### Repos:
+* https://github.com/rhappdev/shared-jenkins-pipelines
+* https://github.com/rhappdev/custom-jenkins-image
 
-### API First
-- Objective:
+### API FIRST
+#### Objective:
 TBD
-- Leader(s):
+#### Leader(s):
+Prima Shah, Colum Bennett, Mikel Sanchez Herrero
+#### Repos:
+* https://github.com/rhappdev/api-first-workshop
+* https://github.com/rhappdev/api-first-workshop-angular
+* https://github.com/rhappdev/api-first-workshop-nodejs
+
+### PROMETHEUS
+#### Objective:
 TBD
+#### Leader(s):
+Daria Mayorova
+#### Repos:
+* TBD
+
+### CAMEL
+#### Objective:
+Outline some of the major integration patterns available through Camel & FUSE, creating reusable assets for POCs and demos.
+#### Leader(s):
+Darach Cawley
+#### Repos:
+* TBD
+
+### DATA SYNC
+#### Objective:
+Investigate the new GraphQL based Data Sync, as part of the mobile developer services (RHMDS) from Engineering, generating resuable assets for POCs and demos in Consulting.
+#### Leader(s):
+Darach Cawley
+#### Repos:
+* TBD
 
 ## Contribute to Workgroups
 If you are interested in contributing to one of these, please contact the corresponding leader.
