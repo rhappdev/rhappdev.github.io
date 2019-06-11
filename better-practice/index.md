@@ -14,3 +14,6 @@
 * Small steps forward
 * Sounding board for individuals to ask the community for thoughts on a pressing need
 * Safe place to present a topic of interest
+
+### Active Workgroups
+* [Join or Create workgroups here](https://rhappdev.github.io/better-practice/workgroups)
