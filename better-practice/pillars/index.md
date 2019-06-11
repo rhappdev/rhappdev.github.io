@@ -1,6 +1,6 @@
 # Pillars
 
-* [Technical Patterns & Architecture](https://rhappdev.github.io/better-practice/pillars/arc-patterns)
+* [Technical Patterns & Architecture](https://rhappdev.github.io/better-practice/pillars/arch-patterns)
 * [CI/CD](https://rhappdev.github.io/better-practice/pillars/ci-cd)
 * [Communication & Collaboration](https://rhappdev.github.io/better-practice/pillars/comms)
 * [Observability](https://rhappdev.github.io/better-practice/pillars/observability)
