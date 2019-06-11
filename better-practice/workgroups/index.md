@@ -47,6 +47,14 @@ Darach Cawley
 #### Repos:
 * TBD
 
+### ANSIBLE
+#### Objective:
+TBD
+#### Leader(s):
+Anton Giertli
+#### Repos:
+* TBD
+
 ## Contribute to Workgroups
 If you are interested in contributing to one of these, please contact the corresponding leader.
 
